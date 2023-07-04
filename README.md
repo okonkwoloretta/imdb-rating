@@ -9,3 +9,7 @@ Python scripts are used to scrape the necessary data from the IMDB website. The 
 
 ## Data Analysis and Visualization:
 After scraping the data, it is saved in an Excel file using the openpyxl library. The Excel file is then imported into Power BI Power Query for further data cleaning and processing. Power BI is used to create interactive visualizations and gain insights into the top-rated movies.
+
+## Acknowledgments
+This project was completed as part of the requirements for the Hamoye Data Science program. The web scraping code and data analysis techniques were learned and applied through the program's curriculum.
+
