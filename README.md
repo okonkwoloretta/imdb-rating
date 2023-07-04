@@ -13,3 +13,5 @@ After scraping the data, it is saved in an Excel file using the openpyxl library
 ## Acknowledgments
 This project was completed as part of the requirements for the Hamoye Data Science program. The web scraping code and data analysis techniques were learned and applied through the program's curriculum.
 
+## PowerBI Link
+Interact [Here](https://app.powerbi.com/groups/me/reports/6a495f4e-7c84-4593-9cf8-609053e326df/ReportSection?experience=power-bi)
